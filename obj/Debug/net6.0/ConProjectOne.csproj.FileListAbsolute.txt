@@ -1,0 +1,15 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\bin\Debug\net6.0\ConProjectOne.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\bin\Debug\net6.0\ConProjectOne.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\bin\Debug\net6.0\ConProjectOne.runtimeconfig.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\bin\Debug\net6.0\ConProjectOne.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\bin\Debug\net6.0\ConProjectOne.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.sourcelink.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\refint\ConProjectOne.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ConProjectOne.genruntimeconfig.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day3\ConProjectOne\ConProjectOne\obj\Debug\net6.0\ref\ConProjectOne.dll
